@@ -1,5 +1,5 @@
 /*
- * FireSense Rover - Arduino Uno
+ * FireSense Rover - Arduino Uno.
  * Educational starter code.
  * Verify all GPIO assignments with the final circuit.
  */
