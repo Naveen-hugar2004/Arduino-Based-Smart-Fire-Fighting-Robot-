@@ -1,4 +1,4 @@
-# Advantages and Limitations
+# Advantages and Limitations 
 
 ## Advantages
 - Early fire detection
